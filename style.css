@@ -1,0 +1,329 @@
+/* ul {
+  padding: 15px; 
+  margin: 3px; 
+  background: #2e5cb8;
+  list-style: disk;
+}
+ul li  {
+    padding: 5px;
+    margin: 5px 15px;
+    background: #ebf0fa;
+}
+ul {
+    padding: 15px; 
+    margin: 3px; 
+    background: #2e5cb8;
+    list-style: lower-roman ;
+  }
+  ul li  {
+      padding: 5px;
+      margin: 5px 15px;
+      background: #ebf0fa;
+  } */
+  /* ul, li {
+    margin: 0;
+    padding: 0;
+  }
+  ul {
+    list-style: none;
+    width: 100%;
+  }
+  a {
+    background: #30a6e6;
+    color: #FFFFFF;
+    display: block;
+    font: bold 13px sans-serif;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+
+  } */
+  /* p {
+   padding: 15px;
+   margin: 15px; 
+  } */
+/*  
+  PE html>
+  <html lang="en">
+  <head>
+      <meta charset="UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Zeronet</title>
+      <link rel="stylesheet" href="CSS/style.css">
+      <link rel="icon" href="img/favicon.ico" type="image/x-icon">
+  </head>
+  <body>
+      <header>
+      <img src="zeronet.png" alt="logo">  
+      
+      
+      </header>
+  
+      <main> 
+          <h5 class="post-info">Created on 20.02.2020, Author: Admin;</h5>
+              <p> 
+                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugit magnam nostrum error quam nam corporis dicta iste rerum tempora culpa sint id soluta sunt, numquam ab vel, modi animi delectus.
+             </p>
+             <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque tempore beatae in sapiente. Odit, doloremque vero, error unde quam deleniti magnam quas delectus magni quod eaque veritatis? Sequi, voluptatem esse.
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla, inventore quibusdam quod perferendis quidem quae esse ex praesentium voluptates deserunt veritatis ad? Impedit recusandae maiores molestias repellendus fuga. Odit, deleniti!
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima ut eligendi vero corrupti voluptatem molestiae ipsa aliquam, doloremque impedit quo quam explicabo dolore quaerat rem eius! Expedita odio modi molestiae?
+             </p>
+             <h3>Coments (2):</h3>
+             <div class="coment">
+              <h4 class="author">John</h4>
+              <h5 class="data">at 19:35 20.02.2020</h5>
+            Мне понравился этот сайт, много всего интересного и полезного.
+            </div> 
+  
+            <div class="coment" id="sub-coment"> 
+              <h4 class="author">Jack</h4>
+              <h5 class="data">at 19:35 20.02.2020</h5>
+              Очень хороший сайт, много полезной информации
+            </div>
+            </main>
+  
+      <footer>
+          <div>
+            <div>
+              <div>
+              </div>
+      <div class="footer-colums">
+        <div class="footer-column">
+          <h3>About</h3>
+          <p>
+              Мы компания Zeronet. На нашем сайте вы можете получит много полезной информации. Мы находимся город: Волгодонск, улица:Энтузиастов 7.
+          </p>
+        </div>
+        <div class="footer-column">
+          <p>
+              Если вам нужна помощь, то напишите нам на почту вам там помогут.
+          <br><strong>Email:
+              <a href="#">Zeronet@gmail.com </a></strong>\ */
+          /* </p> */
+
+
+
+
+
+          /* #menu1{
+            position: relative;
+            display: block;
+            width: 100%;
+            height: auto;
+            z-index: 10;
+          }
+          #menu1{
+            position: relative;
+            display: block;
+            margin: 0px;
+            padding: 0px;
+            width: 100%;
+            height: auto;
+            list-style: none;
+          }
+          #menu1 > ul ::after{
+            display: block;
+            width: 100%;
+            height: 0px;
+            clear: both;
+            content: " ";
+          }
+          #menu1 ul li{
+            position: relative;
+            display: block;
+            float: left; 
+            width:auto ;
+            height: auto;
+          }
+          #menu1 ul li a{
+            display: block;
+            padding: 9px 25px 0px 25px;
+            font-size: 14px;
+            line-height: 1.3em;
+            text-decoration: none;
+            font-weight: bold;
+            text-transform: uppercase;
+            height: 36px;
+            box-sizing: border-box;
+            color: white;
+          }
+          #menu1 ul li ul{
+            position: absolute;
+            top: 36px;
+            left: 0px;
+            display: none;
+            width: 200px;
+            background: #38b6ff;
+          }
+          #menu1 ul li:hover ul{
+            display: block;
+          }
+          #menu1 ul li ul li{
+            float: none;
+            width: 100px;
+          }
+          #menu1 ul li ul li a{
+            display: block;
+            text-transform: none;
+            height: auto;
+            padding: 7px 25px;
+            width: 100%;
+            box-sizing: border-box;
+            border-top: 1px solid #ffffff;
+            color: white;
+          }
+
+          #menu1 ul li ul li:first-child a{
+            border-top: 0px;
+          } */
+
+            
+
+
+header, footer {
+  background-color: #38b6ff;
+  padding: 10px;
+}
+
+main {
+  padding: 10px;
+  background-color: silver;
+}
+
+.post {
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  display: flex;
+}
+
+.post img {
+  margin: 20px;
+}
+
+.footer-columns {
+  display: flex;
+}
+
+.footer-column {
+  flex: 50%;
+  margin: 20px;
+}
+
+.post-info {
+	color: grey;
+}
+
+.comment {
+	background-color: white;
+	padding: 20px;
+	border-radius: 10px;
+	margin-top: 10px;
+}
+
+.author {
+	margin-top: 0px;
+	margin-bottom: 10px;
+}
+
+.date {
+	color: silver;
+	margin-top: 0px;
+	margin-bottom: 10px;
+}
+
+#sub-comment {
+	margin-left: 40px;
+}
+
+#menu1{
+    position: relative;
+    display: block;
+    width: 100%;
+    height: auto;
+    z-index: 10;
+}
+
+#menu1 ul{
+	position: relative;
+	display: block;
+	margin: 0px;
+	padding: 0px;
+	width: 100%;
+	height: auto;
+	list-style: none;
+}
+
+#menu1 > ul::after{
+	display: block;
+	width: 100%;
+	height: 0px;
+	clear: both;
+	content: " ";
+}
+
+#menu1 ul li{
+	position: relative;
+	display: block;
+	float: left;
+	width: auto;
+	height: auto;
+}
+
+#menu1 ul li a{
+	display: block;
+	padding: 9px 25px 0px 25px;
+	font-size: 14px;
+	line-height: 1.3em;
+	text-decoration: none;
+	font-weight: bold;
+	text-transform: uppercase;
+	height: 36px;
+	box-sizing: border-box;
+	color: rgb(12, 47, 122);
+}
+
+#menu1 ul li ul{
+    position: absolute;
+    top: 36px;
+    left: 0px;
+    display: none;
+    width: 200px;
+    background: #38b6ff;
+}
+
+#menu1 ul li:hover ul{
+	display: block;
+}
+
+#menu1 ul li ul li{
+	float: none;
+	width: 100%;
+}
+
+#menu1 ul li ul li a{
+	display: block;
+	text-transform: none;
+	height: auto;
+	padding: 7px 25px;
+	width: 100%;
+	box-sizing: border-box;
+	border-top: 1px solid #0b148b;
+	color: rgb(25, 19, 109);
+}
+
+#menu1 ul li ul li:first-child a{
+	border-top: 0px;
+}
+.carousele{
+  margin: 10px;
+}
+.carousele div img{
+  width: 100%;
+}
+
+      
+      
+ 
